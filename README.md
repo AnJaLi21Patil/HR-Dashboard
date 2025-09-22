@@ -5,4 +5,5 @@ Features of these dashboard include:
   3.Employee Demographics(age,Dep,gender etc..)
   4.Performance Insights
   
-  ![Uploading image.png…]()
+![Uploading image.png…]()
+
